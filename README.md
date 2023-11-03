@@ -11,6 +11,7 @@ API for calculating the frequency of occurrence of characters in a string
 In the request body, a string must be passed for which the frequency of occurrence of characters must be calculated. 
 
 Request type: String 
+
 `POST`
 
 - Response:

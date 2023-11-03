@@ -4,9 +4,7 @@ API for calculating the frequency of occurrence of characters in a string
 
 ## Usage
 
-- URL:
-  
-`/calc`
+- URL: `/calc`
 
 - Method:
   
@@ -15,7 +13,7 @@ In the request body, a string must be passed for which the frequency of occurren
 Request type: String 
 `POST`
 
-- Response
+- Response:
   
 In the response, you will receive a JSON object containing information about each character and its frequency of entry into the specified string. The results will be sorted in descending order of the number of occurrences of the character in the string.
 
